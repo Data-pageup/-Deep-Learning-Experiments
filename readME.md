@@ -167,8 +167,8 @@ MIT License
 
 ## 👤 Author
 
-Your Name - [GitHub Profile](https://github.com/yourusername)
+Your Name - Amirtha Ganesh R
 
 ---
 
-*This project was created as part of a Deep Learning lab course.*
+*This project was created as part of a Deep Learning .*
